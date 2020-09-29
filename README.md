@@ -1,6 +1,8 @@
 # SAS Application
 An  application for any soccer association! 
-[![](https://img.youtube.com/vi/0Hq8iYE-Npk/0.jpg)](https://www.youtube.com/watch?v=0Hq8iYE-Npk)
+
+
+[![click me for a nice tutorial](https://img.youtube.com/vi/0Hq8iYE-Npk/0.jpg)](https://www.youtube.com/watch?v=0Hq8iYE-Npk)
 
 ## About The Application
 *SAS Application* is an offline application, connected to DB, that can serve all the needs for soccer association in creating soccer leagues, 
